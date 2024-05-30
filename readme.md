@@ -6,7 +6,7 @@
 
 
 
-![Animacao](C:\ProjectsCode\Lampada\img\Animacao.gif)
+![Animacao](a\img\Animacao.gif)
 
 
 
