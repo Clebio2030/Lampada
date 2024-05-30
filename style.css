@@ -7,21 +7,21 @@ head, main {
 
 h1 {
     text-align: center;
-    font-size: 300px;
+    font-size: 5rem;
 }
 
 h2 {
-    font-size: 80px;
+    font-size: 30px;
     text-align: center;
 }
 
 button {
-    width: 1000Px;
-    height: 200px;
-    font-size: 100px;
+    width: 15rem;
+    height: 4rem;
+    font-size: 2rem;
 }
 
 img {
-    width: 1200px;
+    width: 20rem;
 
 }
