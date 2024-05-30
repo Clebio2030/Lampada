@@ -5,7 +5,8 @@
 ## **Liga e Desliga**
 
 
-![Animacao](https://github.com/Clebio2030/Lampada/assets/134241152/86d30df3-992d-48f7-a2f7-fe24671a96b4)
+![chrome_P1tgKaBKpu](https://github.com/Clebio2030/Lampada/assets/134241152/71be1e9c-7dab-473c-8cef-3650a28f195b)
+
 
 
 
